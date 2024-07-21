@@ -1,8 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Italicmew'
-theme = 'paper'
-
+theme = 'hugo-paper'
 
 [menu]
   [[menu.main]]
